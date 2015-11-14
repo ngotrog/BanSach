@@ -1,0 +1,17 @@
+E:\Project\TTBanSach\TTBanSach\bin\Debug\TTBanSach.exe.config
+E:\Project\TTBanSach\TTBanSach\bin\Debug\TTBanSach.exe
+E:\Project\TTBanSach\TTBanSach\bin\Debug\TTBanSach.pdb
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.csprojResolveAssemblyReference.cache
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.Properties.Resources.resources
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.csproj.GenerateResource.Cache
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.exe
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.pdb
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.frmKhachHang.resources
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.frmChuDe.resources
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.frmNhaXuatBan.resources
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.frmTacGia.resources
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.frmHome.resources
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.frmSach.resources
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.frmHoaDon.resources
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.NewBook.resources
+E:\Project\TTBanSach\TTBanSach\obj\Debug\TTBanSach.TopBook.resources
